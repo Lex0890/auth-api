@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "db-local": "^3.1.0",
+    "express": "^4.21.2",
+    "local-db": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.21.0",
+    "eslint-config-prettier": "^10.0.2",
+    "prettier": "^3.5.3"
+  },
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lex0890/auth-api.git"
+  },
+  "keywords": [],
+  "author": "Lex0890",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lex0890/auth-api/issues"
+  },
+  "homepage": "https://github.com/Lex0890/auth-api#readme"
+}
